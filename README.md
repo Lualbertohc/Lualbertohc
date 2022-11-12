@@ -12,7 +12,7 @@ Sou um desenvolvedor web ideativo e curioso apaixonado por solucionar problemas 
 # 📊 Minhas estatísticas :
 ![](https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lualbertohc&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ## 🏆 Troféus:
 ![](https://github-trophies.vercel.app/?username=Lualbertohc&theme=nord&no-frame=true&no-bg=false&margin-w=4)
