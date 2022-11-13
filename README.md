@@ -4,7 +4,7 @@
 
 <div align="center">
 <p><a href="https://linkedin.com/in/luisalbertohc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="luis.alberto3556@gmail.com"><img src="https://img.shields.io/badge/-luis.alberto3556-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a> <a href="https://twitter.com/Lualbertohc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
-<h4>Se você quiser dizer oi, ficarei feliz em conhecê-lo mais!</h4>
+<h4>Se você quiser dizer oi ficarei feliz em te conhecer!</h4>
 </div>
 
 <br>
@@ -28,7 +28,7 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 <h1 align="center"> 🛠 Linguagens e ferramentas</h1>
 
 <p>
-    <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+    <!-- <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" /> -->
   <p>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E"/>
