@@ -28,7 +28,7 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 <h1 align="center"> 🛠 Linguagens e ferramentas</h1>
 
 <p>
-    <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   <p>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E"/>
@@ -56,7 +56,6 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
   </p>
 </p>
 <p>
-  📣 Precisa entrar em contato comigo? Me encontre aqui: <a href="luis.alberto3556@gmail.com">luis.alberto3556@gmail.com</a> 
 
 <br>
 
