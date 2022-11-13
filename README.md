@@ -28,7 +28,7 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 <h1 align="center"> 🛠 Linguagens e ferramentas</h1>
 
 <p>
-    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+    <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   <p>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E"/>
@@ -59,20 +59,12 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 
 <br>
 
-<!-- <div align="center">
-<h1>Troféus</h1>
-<img src="https://github-trophies.vercel.app/?username=Lualbertohc&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
-</div> -->
-
-<br>
-<br>
-<br>
-
 <div align="center">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 <h4> PIX: luis.alberto3556@gmail.com </h4>
 </div>
 
+<br>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
