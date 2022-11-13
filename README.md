@@ -1,18 +1,80 @@
-# 💫 Sobre mim :
-Olá, muito prazer! 👋
+<div align="center">
+<h1> Olá, muito prazer! Eu sou <a href="https://www.linkedin.com/in/luisalbertohc/" target="_blank">Luis Alberto</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+</div>
 
-Sou um desenvolvedor web ideativo e curioso apaixonado por solucionar problemas e desenvolver experiências que tornem a vida das pessoas mais simples e agradáveis. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas.
+<div align="center">
+<p><a href="https://linkedin.com/in/luisalbertohc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="luis.alberto3556@gmail.com"><img src="https://img.shields.io/badge/-luis.alberto3556-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a> <a href="https://twitter.com/Lualbertohc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<h4>Se você quiser dizer oi, ficarei feliz em conhecê-lo mais!</h4>
+</div>
+
+<br>
+
+Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar problemas e desenvolver experiências que tornem a vida das pessoas mais simples e agradáveis. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas.
+
+<div>
+
+<img align="right" width="150" src="https://thumbs.gfycat.com/AmazingDazzlingFrog-max-1mb.gif"/>
+
+<h2>👨🏻‍💻 um pouco mais sobre mim:</h2>
+
+😄 Pronome: ele/dele. <br/>
+💬 Fale comigo sobre: filmes, jogos, computadores e sistemas operacionais <br/>
+🔭 Atualmente estou trabalhando em meus projetos de estimação.<br/>
+☕️ Amante de café. <br/>
+</div>
+
+<br>
+
+<h1 align="center"> 🛠 Linguagens e ferramentas</h1>
+
+<p>
+    <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  <p>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=for-the-badge&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  </p>
+</p>
+<p>
+  📣 Precisa entrar em contato comigo? Me encontre aqui: <a href="luis.alberto3556@gmail.com">luis.alberto3556@gmail.com</a> 
+
+<br>
+
+<!-- <div align="center">
+<h1>Troféus</h1>
+<img src="https://github-trophies.vercel.app/?username=Lualbertohc&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
+</div> -->
+
+<br>
+<br>
+<br>
+
+<div align="center">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<h4> PIX: luis.alberto3556@gmail.com </h4>
+</div>
 
 
-## 🌐 Minhas redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisalbertohc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Lualbertohc) 
-
-# 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 Minhas estatísticas :
-![](https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lualbertohc&theme=react&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
-
-## 🏆 Troféus:
-![](https://github-trophies.vercel.app/?username=Lualbertohc&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
