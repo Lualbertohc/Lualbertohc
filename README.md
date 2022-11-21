@@ -57,12 +57,12 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 </p>
 <p>
 
-<br>
+<!-- <br>
 
 <div align="center">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 <h4> PIX: luis.alberto3556@gmail.com </h4>
-</div>
+</div> -->
 
 <br>
 
