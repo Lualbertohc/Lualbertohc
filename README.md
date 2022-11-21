@@ -1,9 +1,13 @@
+<div>
+img align="center" alt="Header" src="https://media-exp1.licdn.com/dms/image/C4D16AQE6zL9ihxLU4w/profile-displaybackgroundimage-shrink_350_1400/0/1663354789589?e=1674691200&v=beta&t=fI13tGoaTnH0pu6qBXdhHyJQ83jG3Y4ySpu5F4IOlAw" />
+</div>
+
 <div align="center">
 <h1> Olá, muito prazer! Eu sou <a href="https://www.linkedin.com/in/luisalbertohc/" target="_blank">Luis Alberto</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 </div>
 
 <div align="center">
-<p><a href="https://linkedin.com/in/luisalbertohc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="luis.alberto3556@gmail.com"><img src="https://img.shields.io/badge/-luis.alberto3556-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a> <a href="https://twitter.com/Lualbertohc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<p><a href="https://linkedin.com/in/luisalbertohc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="luis.alberto3556@gmail.com"><img src="https://img.shields.io/badge/-luis.alberto3556-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a></p>
 <h4>Se você quiser dizer oi ficarei feliz em te conhecer!</h4>
 </div>
 
@@ -21,6 +25,7 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 💬 Fale comigo sobre: filmes, jogos, computadores e sistemas operacionais <br/>
 🔭 Atualmente estou trabalhando em meus projetos de estimação.<br/>
 ☕️ Amante de café. <br/>
+:octocat: pai de duas gatinhas: lua 🌙 e estrela ⭐.<br/>
 </div>
 
 <br>
