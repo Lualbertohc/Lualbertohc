@@ -25,7 +25,7 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 💬 Fale comigo sobre: filmes, jogos, computadores e sistemas operacionais <br/>
 🔭 Atualmente estou trabalhando em meus projetos de estimação.<br/>
 ☕️ Amante de café. <br/>
-:octocat: Pai de duas gatinhas: lua 🌙 e estrela ⭐.<br/>
+:octocat: Pai de duas gatinhas: Lua 🌙 e Estrela ⭐.<br/>
 </div>
 
 <br>
