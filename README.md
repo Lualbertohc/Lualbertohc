@@ -1,5 +1,5 @@
 <div>
-img align="center" alt="Header" src="https://media-exp1.licdn.com/dms/image/C4D16AQE6zL9ihxLU4w/profile-displaybackgroundimage-shrink_350_1400/0/1663354789589?e=1674691200&v=beta&t=fI13tGoaTnH0pu6qBXdhHyJQ83jG3Y4ySpu5F4IOlAw" />
+<img align="center" alt="Header" src="https://media-exp1.licdn.com/dms/image/C4D16AQE6zL9ihxLU4w/profile-displaybackgroundimage-shrink_350_1400/0/1663354789589?e=1674691200&v=beta&t=fI13tGoaTnH0pu6qBXdhHyJQ83jG3Y4ySpu5F4IOlAw" />
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@ Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar
 💬 Fale comigo sobre: filmes, jogos, computadores e sistemas operacionais <br/>
 🔭 Atualmente estou trabalhando em meus projetos de estimação.<br/>
 ☕️ Amante de café. <br/>
-:octocat: pai de duas gatinhas: lua 🌙 e estrela ⭐.<br/>
+:octocat: Pai de duas gatinhas: lua 🌙 e estrela ⭐.<br/>
 </div>
 
 <br>
