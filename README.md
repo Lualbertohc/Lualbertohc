@@ -62,7 +62,7 @@ Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas 
 <p>
     
 <div>
-<a href="[url](https://docs.google.com/document/d/e/2PACX-1vQwlVM9pCH3wrbimzpLaRJkrrduoDF-pI3oov3MDcD0FY2C9Z-QMalvwyvm0bFbljwaXvvpwhGUDCKY/pub)">link text</a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vQwlVM9pCH3wrbimzpLaRJkrrduoDF-pI3oov3MDcD0FY2C9Z-QMalvwyvm0bFbljwaXvvpwhGUDCKY/pub">link text</a>
 </div>
     
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc&layout=compact" /> -->
