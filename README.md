@@ -13,7 +13,7 @@
 
 <br>
 
-Sou um Desenvolvedor Web Full Stack ideativo e curioso apaixonado por solucionar problemas e desenvolver experiências que tornem a vida das pessoas mais simples e agradáveis. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas.
+Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas e desenvolver experiências e interfaces simples e acessíveis. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas.
 
 <div>
 
