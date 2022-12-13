@@ -62,7 +62,7 @@ Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas 
 <p>
     
 <div>
-<img align="center" alt="Header" src="[https://media-exp1.licdn.com/dms/image/C4D16AQE6zL9ihxLU4w/profile-displaybackgroundimage-shrink_350_1400/0/1663354789589?e=1674691200&v=beta&t=fI13tGoaTnH0pu6qBXdhHyJQ83jG3Y4ySpu5F4IOlAw](https://docs.google.com/document/d/e/2PACX-1vQwlVM9pCH3wrbimzpLaRJkrrduoDF-pI3oov3MDcD0FY2C9Z-QMalvwyvm0bFbljwaXvvpwhGUDCKY/pub)" />
+<img align="center" alt="Header" src="https://docs.google.com/document/d/e/2PACX-1vQwlVM9pCH3wrbimzpLaRJkrrduoDF-pI3oov3MDcD0FY2C9Z-QMalvwyvm0bFbljwaXvvpwhGUDCKY/pub" />
 </div>
     
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc&layout=compact" /> -->
