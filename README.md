@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-<p><a href="https://linkedin.com/in/luisalbertohc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="luis.alberto3556@gmail.com"><img src="https://img.shields.io/badge/-luis.alberto3556-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a></p>
-<h4>Se quiser dizer um oi ficarei muito feliz em te conhecer!</h4>
+<p><a href="https://linkedin.com/in/luisalbertohc"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="[luis.alberto3556@gmail.com](https://www.linkedin.com/in/luisalbertohc/)"><img src="https://img.shields.io/badge/-luis.alberto3556-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luis.alberto3556@gmail.com" height=25></a></p>
+<h4>Se quiser dizer um oi ficarei feliz em te conhecer!</h4>
 </div>
 
 <br>
