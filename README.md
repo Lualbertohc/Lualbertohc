@@ -61,6 +61,8 @@ Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas 
   </p>
 </p>
 <p>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lualbertohc=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <br>
 
