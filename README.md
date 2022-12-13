@@ -54,7 +54,6 @@ Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas 
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white" height=40/>
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white" height=40/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=for-the-badge&logo=Slack&logoColor=white" height=40/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white" height=40/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white" height=40/>
     <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=for-the-badge&logo=Ubuntu&logoColor=white" height=40/>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height=40/>
