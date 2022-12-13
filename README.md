@@ -62,7 +62,7 @@ Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas 
 </p>
 <p>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc)](https://github.com/Lualbertohc/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc&layout=compact" />
 
 <!-- <br>
 
