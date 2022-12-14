@@ -57,6 +57,7 @@ Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas 
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white" height=40/>
     <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=for-the-badge&logo=Ubuntu&logoColor=white" height=40/>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height=40/>
+    <img src="https://img.shields.io/badge/jest-%23F24E1E.svg?style=for-the-badge&logo=jest&logoColor=white" height=40/>
   </p>
 </p>
 <p>
