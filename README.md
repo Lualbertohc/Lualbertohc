@@ -13,7 +13,7 @@
 
 <br>
 
-Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas e idealizar soluções de desenvolvimento para melhorar a experiência do usuário. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas.
+Sou um Desenvolvedor Web ideativo e curioso apaixonado por solucionar problemas e desenvolver aplicações visando a melhor experiência do usuário. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas.
 
 <div>
 
