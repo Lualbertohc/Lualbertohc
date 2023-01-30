@@ -1,7 +1,3 @@
-<div>
-<img align="center" alt="Header" src="https://media-exp1.licdn.com/dms/image/C4D16AQE6zL9ihxLU4w/profile-displaybackgroundimage-shrink_350_1400/0/1663354789589?e=1674691200&v=beta&t=fI13tGoaTnH0pu6qBXdhHyJQ83jG3Y4ySpu5F4IOlAw" />
-</div>
-
 <div align="center">
 <h1> Olá, muito prazer! Eu sou <a href="https://www.linkedin.com/in/luisalbertohc/" target="_blank">Luis Alberto</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 </div>
