@@ -9,7 +9,7 @@
 
 <br>
 
-Sou um Desenvolvedor Web criativo e curioso apaixonado por solucionar problemas e desenvolver aplicações que melhorem a vida das pessoas. 
+Sou um Desenvolvedor Web criativo e curioso apaixonado por solucionar problemas e desenvolver aplicações que melhorem a vida das pessoas. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas
 
 <div>
 
