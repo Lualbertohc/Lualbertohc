@@ -9,7 +9,7 @@
 
 <br>
 
-Sou um Desenvolvedor Web criativo e curioso apaixonado por tecnologia e desafios. Meu principal objetivo, além de estar em constante aprendizado, é desenvolver aplicações que melhorem a vida das pessoas. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas
+Sou um Desenvolvedor Web criativo e curioso apaixonado por tecnologia e desafios. Meu principal objetivo, além de estar em constante aprendizado, é solucionar problemas através da programação e desenvolver aplicações web que melhorem a vida das pessoas. Acredito que a tecnologia é para todos e que um trabalho baseado em equidade tem o poder de impactar positivamente milhares de vidas
 
 <div>
 
