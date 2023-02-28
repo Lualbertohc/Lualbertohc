@@ -60,9 +60,9 @@ Sou um Desenvolvedor Web criativo e curioso apaixonado por solucionar problemas 
     
 <br>
     
-<div align="center">
+<!-- <div align="center">
 <a href="https://docs.google.com/document/d/1bUWFnLwCSkMcmq-EneZ126lspO_1NGHbfiudXXzrvTM/edit?usp=sharing">Baixe meu resumo aqui!</a>
-</div>
+</div> -->
     
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbertohc&layout=compact" /> -->
 
