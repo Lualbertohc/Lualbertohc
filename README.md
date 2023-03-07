@@ -9,7 +9,7 @@
 
 <br>
 
-Sou um Desenvolvedor Web Full Stack criativo e curioso apaixonado por tecnologia e desafios. Meu principal objetivo, além de estar em constante aprendizado, é solucionar problemas através das minhas experiências com programação web e desenvolver aplicações equitativas que melhorem a vida das pessoas. 
+Sou um Desenvolvedor Web Full Stack criativo e curioso apaixonado por tecnologia e desafios. Meu principal objetivo, além de estar em constante aprendizado, é solucionar problemas através da programação web e desenvolver aplicações equitativas que melhorem a vida das pessoas. 
 
 <div>
 
