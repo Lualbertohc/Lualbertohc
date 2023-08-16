@@ -9,7 +9,11 @@
 
 <br>
 
-Sou um Desenvolvedor Web Full Stack criativo e curioso apaixonado por tecnologia e desafios. Meu principal objetivo, além de estar em constante aprendizado, é solucionar problemas através da programação web e desenvolver aplicações equitativas que melhorem a vida das pessoas. 
+Sou um desenvolvedor Web Full-Stack criativo, curioso e apaixonado por desafios e tecnologia. Atualmente faço parte do time Deloitte, uma empresa líder em consultoria e soluções empresariais, onde trabalho como Analista de Sistema.
+
+Tenho habilidade nas linguagens Javascript, Typescript e SQL, experiência com bibliotecas como React e Material UI, além de conhecimento em construção de API RESTful e banco de dados, seguindo as melhores práticas de segurança e performance.
+
+Se você está interessado em tecnologia, desenvolvimento de software ou apenas deseja trocar ideias, sinta-se à vontade para me contatar. Estou ansioso para expandir minha rede de contatos e aprender com profissionais inspiradores.
 
 <div>
 
