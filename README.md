@@ -23,7 +23,7 @@ Se você está interessado em tecnologia, desenvolvimento de software ou apenas 
 
 😄 Pronome: ele/dele. <br/>
 💬 Fale comigo sobre: filmes, jogos, computadores e sistemas operacionais <br/>
-🔭 Atualmente estou trabalhando em meus projetos de estimação.<br/>
+🔭 Atualmente trabalho na Deloitte Brasil como Analista de Sistema.<br/>
 ☕️ Amante de café. <br/>
 :octocat: Pai de duas gatinhas: Lua 🌙 e Estrela ⭐.<br/>
 </div>
