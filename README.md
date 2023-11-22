@@ -18,10 +18,10 @@ Olá, sou um desenvolvedor apaixonado por desafios e dedicado a impulsionar a in
 - Proficiente em linguagens como Javascript, Typescript e Python.
 - Experiência com bibliotecas modernas como React e Material UI.
 
-## 👨🏻‍💻 Um Pouco Mais Sobre Mim
+## :information_desk_person: Um Pouco Mais Sobre Mim
 - 😄 **Pronome:** ele/dele.
 - 💬 **Fale Comigo Sobre:** filmes, jogos, computadores e sistemas operacionais.
-- 🔭 **Local Atual de Trabalho:** Deloitte Brasil como Analista de Sistema.
+- 🔭 **Local Atual de Trabalho:** Deloitte Brasil 
 - ☕️ **Amante de Café.**
 - :octocat: **Pai de Duas Gatinhas:** Lua 🌙 e Estrela ⭐.
 
