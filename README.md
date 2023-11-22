@@ -14,9 +14,9 @@
 Olá, sou um desenvolvedor apaixonado por desafios e dedicado a impulsionar a inovação através da tecnologia. Atualmente, faço parte da equipe da Deloitte Brasil, desempenhando o papel de Analista de Sistema.
 
 ## 👨‍💻 Experiência Técnica
-- Desenvolvimento de aplicações web utilizando C#, Node.js e SQL, garantindo soluções completas e eficientes.
+- Trabalhando com o desenvolvimento de aplicações web utilizando C# e SQL, garantindo soluções completas e eficientes.
 - Proficiente em linguagens como Javascript, Typescript e Python.
-- Experiência sólida com bibliotecas modernas como React e Material UI.
+- Experiência com bibliotecas modernas como React e Material UI.
 
 ## 👨🏻‍💻 Um Pouco Mais Sobre Mim
 - 😄 **Pronome:** ele/dele.
@@ -28,7 +28,6 @@ Olá, sou um desenvolvedor apaixonado por desafios e dedicado a impulsionar a in
 # 🛠 Linguagens e Ferramentas
 
 <p align="center">
-  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=Lualbertohc&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height=40/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E" height=40/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=%23F7DF1E" height=40/>
