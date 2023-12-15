@@ -15,7 +15,7 @@ Olá, sou um desenvolvedor apaixonado por desafios e dedicado a impulsionar a in
 
 ## 👨‍💻 Experiência Técnica
 - Trabalhando com o desenvolvimento de aplicações web utilizando C# e SQL.
-- Proficiente em linguagens como Javascript, Typescript e Python.
+- Proficiente em linguagens como Javascript e Typescript.
 - Experiência com bibliotecas modernas como React e Material UI.
 
 ## :information_desk_person: Um Pouco Mais Sobre Mim
